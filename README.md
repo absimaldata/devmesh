@@ -1,60 +1,65 @@
+<div align="center">
+
 # Devmesh
 
-> **Privacy-first developer tools, PDF & file converters, and a real-time collaborative code editor — all in your browser. No signup, no upload.**
+**Privacy-first developer tools, PDF &amp; file converters, and a real-time collaborative code editor — all in your browser. No signup.**
 
-### 🔗 [**Try it live → devmesh.me**](https://devmesh.me)
+[![Website](https://img.shields.io/badge/Live-devmesh.me-2563eb?style=flat-square)](https://devmesh.me)
+
+[Website](https://devmesh.me) &nbsp;·&nbsp; [PDF Tools](https://devmesh.me/pdf) &nbsp;·&nbsp; [CodeShare](https://devmesh.me/codeshare)
+
+</div>
+
+<br>
 
 ![Devmesh](screenshots/homepage.jpg)
 
----
+## Overview
 
-## What is Devmesh?
+Devmesh is an all-in-one suite of **35+ developer and productivity tools** that run entirely in the browser. Client-side tools never upload your data; server-side document conversions are processed over an encrypted connection and deleted immediately afterward. No accounts, no tracking — just open and use.
 
-Devmesh is an all-in-one toolbox of **35+ developer and everyday tools** that run **right in your browser** — fast, private, and free. The client-side tools never upload your data; the document converters process securely on the server and delete your file right after. No accounts, no tracking, no friction.
+## Features
 
-## ✨ Highlights
+- **Privacy-first** — browser tools run locally; nothing is uploaded
+- **No signup** — no account, no login, free to use
+- **PDF tools &amp; document converters** — free, including formats most sites charge for
+- **CodeShare** — real-time collaborative code editor with live execution
+- **One workspace** for tools you'd otherwise find scattered across dozens of sites
 
-- 🔒 **Privacy-first** — browser tools run locally; nothing is uploaded
-- ⚡ **No signup, no account** — open and use, instantly
-- 📄 **PDF tools & converters** competitors charge for — free
-- 👥 **CodeShare** — real-time collaborative code editor with live execution
-- 🧰 **One place** for the tools you'd otherwise hunt across 20 sites
+## Tools
 
-## 🧰 What's inside
+| Category | Included |
+| --- | --- |
+| **PDF &amp; Converters** | Merge, Split, Organize, Word ↔ PDF, Excel → PDF, PowerPoint → PDF, JPG ↔ PDF |
+| **AI / LLM** | Token Counter, LLM Cost Calculator, Prompt Builder, Local LLM Sizer, Dataset Converter |
+| **JSON &amp; Data** | JSON Formatter, JSON Tree, YAML / XML / CSV ↔ JSON, Diff Checker |
+| **Encode &amp; Hash** | Base64, URL Encoder, JWT Decoder, Hasher (SHA / MD5), String Escape |
+| **Generate** | UUID / NanoID, Password, QR Code, Color Converter, Time Zone |
+| **Network &amp; More** | IP Info, Speed Test, Regex Tester, Cron Parser, ASCII Art, Hex Editor |
 
-**📄 PDF Tools & Converters** — Merge · Split · Organize · Word→PDF · PDF→Word · Excel→PDF · PowerPoint→PDF · JPG↔PDF
-👉 [devmesh.me/pdf](https://devmesh.me/pdf)
+## CodeShare
 
-**🤖 AI / LLM** — Token Counter · LLM Cost Calculator · Prompt Builder · Local LLM Sizer · Dataset Converter
+A real-time collaborative code editor — share a single link, edit together, and run code in 20+ languages, with no signup.
+→ [devmesh.me/codeshare](https://devmesh.me/codeshare)
 
-**{ } JSON & Data** — JSON Formatter · JSON Tree Editor · YAML ↔ JSON · XML ↔ JSON · CSV ↔ JSON · Diff Checker
+## Screenshots
 
-**🔐 Encode & Hash** — Base64 · URL Encoder · JWT Decoder · Hasher (SHA/MD5) · String Escape
+<table>
+  <tr>
+    <td width="50%"><img src="screenshots/codeshare.jpg" alt="CodeShare — collaborative editor"></td>
+    <td width="50%"><img src="screenshots/llm-token-counter.jpg" alt="Token Counter"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="screenshots/ascii-art.jpg" alt="ASCII Art generator"></td>
+    <td width="50%"><img src="screenshots/speedtest.jpg" alt="Speed Test"></td>
+  </tr>
+</table>
 
-**⚙️ Generate** — UUID/NanoID · Password · QR Code · Color Converter · Time Zone
+## Privacy
 
-**🌐 Network & More** — IP Info · Speed Test · Regex Tester · Cron Parser · ASCII Art · Hex Editor
+Browser-based tools never transmit your data. Server-side conversions travel over an encrypted connection, are processed, and **deleted immediately afterward — never stored**.
 
-## 👥 CodeShare
-
-A real-time **collaborative code editor** — share a single link, edit together live, and run code in 20+ languages. No signup.
-👉 [devmesh.me/codeshare](https://devmesh.me/codeshare)
-
-## 📸 Screenshots
-
-| | |
-|:---:|:---:|
-| **CodeShare** — collaborative editor | **Token Counter** — AI / LLM tools |
-| ![CodeShare](screenshots/codeshare.jpg) | ![Token Counter](screenshots/llm-token-counter.jpg) |
-| **ASCII Art** generator | **Speed Test** |
-| ![ASCII Art](screenshots/ascii-art.jpg) | ![Speed Test](screenshots/speedtest.jpg) |
-
-## 🔒 Privacy
-
-Browser-based tools never send your data anywhere. Server-side document conversions travel over an encrypted connection, are converted, and **deleted right after — never stored**.
-
----
-
-🔗 **[devmesh.me](https://devmesh.me)** · 📄 [PDF tools](https://devmesh.me/pdf) · 👥 [CodeShare](https://devmesh.me/codeshare)
-
-© 2026 Aditya. All rights reserved.
+<div align="center">
+<br>
+<sub><a href="https://devmesh.me">devmesh.me</a> &nbsp;·&nbsp; © 2026 Devmesh</sub>
+</div>
